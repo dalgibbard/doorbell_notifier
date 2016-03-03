@@ -12,4 +12,7 @@ You could replace the WS2812B LED with a regular LED, but i wanted to be able to
 * The *.fzz file is a Fritzing wiring diagram to get you started (the PNG is an image version of it for simplicity!)
 * The *.ino file is the Arduino sketch (requires the RCSwitch and Adafruit_Neopixel Libraries)
 
+NOTE: I had serious range issues with the cheaper chinese receiver modules. Try finding one that has a crystal on it (pill-shaped metal plate thingy)
+
+Example Wiring:
 ![Example Wiring Diagram](/doorbell_notifier_bb.png?raw=true "Example Wiring")
